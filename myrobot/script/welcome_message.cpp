@@ -6,7 +6,7 @@ namespace gazebo
   {
     public: WorldPluginMyRobot() : WorldPlugin()
             {
-              printf("Welcome to Shark’s World!!\n"); // printing out the message
+              printf("Welcome to Afroz’s World!!\n"); // printing out the message
             }
 
     public: void Load(physics::WorldPtr _world, sdf::ElementPtr _sdf)//Loading the physics engine
